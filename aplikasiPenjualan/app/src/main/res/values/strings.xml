@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aplikasiPenjualan</string>
+    <string name="editwidth">50dp</string>
+    <string name="editheight">50dp</string>
+</resources>
